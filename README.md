@@ -12,7 +12,8 @@ The entertainment industry is a massive data source, and Netflix has become one 
 
 ### 2. Information about dataset -
 https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
-This dataset has two files containing the titles (titles.csv). This dataset contains +5k unique titles on Netflix with 15 columns containing their information, including :
+
+This dataset has containing the titles (titles.csv). This dataset contains +5k unique titles on Netflix with 15 columns containing their information, including :
 
 id: The title ID on JustWatch.
 title: The name of the title.

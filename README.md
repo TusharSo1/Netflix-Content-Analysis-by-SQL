@@ -10,7 +10,8 @@ This project focuses on analyzing Netflix's movie and show data, offering insigh
 ### 1. Introduction
 The entertainment industry is a massive data source, and Netflix has become one of the largest content providers globally. This project aims to analyze various aspects of Netflix's content library, including IMDb scores, content distribution over decades, the impact of age certification, and more.
 
-### 2. Information about dataset
+### 2. Information about dataset -
+https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 This dataset has two files containing the titles (titles.csv). This dataset contains +5k unique titles on Netflix with 15 columns containing their information, including :
 
 id: The title ID on JustWatch.
